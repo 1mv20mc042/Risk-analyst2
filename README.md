@@ -90,45 +90,9 @@ The risk score is calculated based on multiple factors:
 - Loan to income ratio (25%): Higher ratio = higher risk
 - Expense to income ratio (15%): Higher ratio = higher risk
 
-## 🧪 Testing
 
-To run tests:
-```bash
-npm test
-```
 
-## 📦 Build for Production
 
-To create a production build:
-```bash
-npm run build
-```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Ant Design for the excellent UI components
-- Recharts for the powerful charting library
-- Vite team for the amazing build tool
-
-## 📞 Support
-
-For support, email support@example.com or join our Slack channel.
-
-## 📈 Roadmap
-
-- [ ] Add machine learning-based risk prediction
-- [ ] Implement real-time notifications
-- [ ] Add multi-language support
-- [ ] Integrate with external credit bureaus
