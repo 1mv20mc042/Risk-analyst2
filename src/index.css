@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-layout {
+  background: #ffffff !important;
+}
+
+.ant-menu-item-selected {
+  background-color: #EBF5FF !important;
+  color: #2563EB !important;
+}
+
+.ant-menu-item:hover {
+  color: #2563EB !important;
+}
+
+.ant-menu-item-selected svg {
+  color: #2563EB !important;
+}
